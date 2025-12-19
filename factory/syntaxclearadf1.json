@@ -1,0 +1,9 @@
+{
+	"name": "syntaxclearadf1",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8837f5e2-5c47-47d3-8eb9-bf14da070882",
+		"tenantId": "08d66140-b79f-423b-9c99-993241ca59fc"
+	}
+}
